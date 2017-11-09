@@ -1,7 +1,7 @@
 # data-512-a3
 
 | Command | Description | xxx |
-| --- | --- |
+| --- | --- | --- |
 | `Country` | Name of the country | String |
 | `Region` | Region the country belongs to | String |
 | `Happiness.Rank` | Rank of the country based on the Happiness Score. | Numeric |
@@ -20,6 +20,6 @@
 
 
 | First Header  | Second Header | xxx |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | 
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
