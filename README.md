@@ -13,13 +13,3 @@
 | `Generosity` |The extent to which Generosity contributed to the calculation of the Happiness Score | Numeric |
 | `Trust..Government.Corruption.` | Show file differences that **haven't been** staged | Numeric |
 | `Dystopia.Residual` | The extent to which Dystopia Residual contributed to the calculation of the Happiness Score. | Numeric|
-
-
-
-
-
-
-| First Header  | Second Header | xxx |
-| ------------- | ------------- | ------------- | 
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
