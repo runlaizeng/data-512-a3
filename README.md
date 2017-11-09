@@ -5,7 +5,7 @@
 
 
 ### Data will use 
-[xxxx](www)
+[world-happiness](https://www.kaggle.com/unsdsn/world-happiness/data) the datasets come from [Kaggele](www.kaggele.com). The world happiness contains three dataset. They are 2015.csv, 2016.csv, and 2017.csv. There are 12 varaibles for each data set. The varaible names , description and data type is in the following table. 
 
 
 | Varaible name  | Description | Data Type |
@@ -21,6 +21,11 @@
 | `Generosity` |The extent to which Generosity contributed to the calculation of the Happiness Score | Numeric |
 | `Trust..Government.Corruption.` | Show file differences that **haven't been** staged | Numeric |
 | `Dystopia.Residual` | The extent to which Dystopia Residual contributed to the calculation of the Happiness Score. | Numeric|
+| `Standard Error` | No desciption provide | Numeric|
+
+#### Note for Happiness score
+The happiness scores and rankings use data from the Gallup World Poll. The scores are based on answers to the main life evaluation question asked in the poll. This question, known as the Cantril ladder, asks respondents to think of a ladder with the best possible life for them being a 10 and the worst possible life being a 0 and to rate their own current lives on that scale. The scores are from nationally representative samples for the years 2013-2016 and use the Gallup weights to make the estimates representative. The columns following the happiness score estimate the extent to which each of six factors – economic production, social support, life expectancy, freedom, absence of corruption, and generosity – contribute to making life evaluations higher in each country than they are in Dystopia, a hypothetical country that has values equal to the world’s lowest national averages for each of the six factors. They have no impact on the total score reported for each country, but they do explain why some countries rank higher than others
+
 
 
 ### What I will do with data 
