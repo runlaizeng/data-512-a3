@@ -1,6 +1,6 @@
 # data-512-a3
 
-| Command | Description | xxx |
+| Varaible name  | Description | Data Type |
 | --- | --- | --- |
 | `Country` | Name of the country | String |
 | `Region` | Region the country belongs to | String |
