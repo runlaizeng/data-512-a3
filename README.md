@@ -25,6 +25,12 @@
 | `Dystopia.Residual` | The extent to which Dystopia Residual contributed to the calculation of the Happiness Score. | Numeric|
 | `Standard Error` | No desciption provide | Numeric|
 
+### License of Data
+[CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
+terms of using datasets. Access to the dataset is subject to the [Kaggle Terms of Use](https://www.kaggle.com/terms) and [Rules](https://www.kaggle.com/c/expedia-hotel-recommendations/rules) of the competition.
+
+Terms of using datasets. Access to the dataset is subject to the Kaggle Terms of Use and Rules of the competition.
+
 #### Note for Happiness score
 The happiness scores and rankings use data from the Gallup World Poll. The scores are based on answers to the main life evaluation question asked in the poll. This question, known as the Cantril ladder, asks respondents to think of a ladder with the best possible life for them being a 10 and the worst possible life being a 0 and to rate their own current lives on that scale. The scores are from nationally representative samples for the years 2013-2016 and use the Gallup weights to make the estimates representative. The columns following the happiness score estimate the extent to which each of six factors – economic production, social support, life expectancy, freedom, absence of corruption, and generosity – contribute to making life evaluations higher in each country than they are in Dystopia, a hypothetical country that has values equal to the world’s lowest national averages for each of the six factors. They have no impact on the total score reported for each country, but they do explain why some countries rank higher than others
 
